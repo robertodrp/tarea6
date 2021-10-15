@@ -1,0 +1,123 @@
+
+/*Fondo principal*/
+.fondoverde {
+    background-color: #76D7C4;
+
+}
+
+/*Fondos Cuadritos*/
+
+.fondorojo {
+    background-color: #E74C3C;
+
+}
+
+.fondoazul {
+
+    background-color: #5DADE2;
+
+}
+
+.fondoblanco {
+
+    background-color:antiquewhite;
+
+}
+
+.fondomorado {
+
+    background-color: #ad77c2;
+
+}
+
+.fondoamarillo {
+
+    background-color: #F1C40F;
+
+}
+
+.fondoverdemoco {
+
+    background-color: #8dd85b;
+
+}
+
+.fondonaranja {
+
+    background-color: #e66954;
+
+}
+
+.fondovioleta {
+
+    background-color: #cb82ec;
+
+}
+
+/*Colores Letras*/
+
+.letrablanca {
+
+    color: white;
+
+}
+
+/*Tamaño de Letra*/
+
+.tamañoletra {
+    
+    font-size: 25px;
+
+}
+
+.tamañoletra1 {
+    
+    font-size: 35px;
+
+}
+
+/*bORDES*/
+
+.bordegris1 {
+
+    border: 11px outset #65686b;
+
+}
+
+.bordegris2 {
+
+    border: 7px outset #65686b;
+
+}
+
+.bordegris3 {
+
+    border: 1px outset #65686b;
+
+}
+
+.bordegris4 {
+
+    border: 5px outset #65686b;
+
+}
+.bordenegro {
+
+    border: 1px outset #000000;
+
+}
+
+/* Tamaño recuadro */
+
+.tamañorecuadro {
+
+    width: 100%;
+}
+
+/* margen */
+
+.margen {
+
+    margin: -5px;
+    padding: -5px;
+}
